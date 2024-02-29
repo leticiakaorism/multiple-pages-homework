@@ -1,0 +1,16 @@
+body {
+    background-color: tan;
+}
+
+h1, p  {
+    text-align: center;
+}
+
+a {
+    color: green;
+}
+
+.links {
+    text-align: center;
+}
+    
